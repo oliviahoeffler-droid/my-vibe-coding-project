@@ -5,24 +5,31 @@
 ## Scenario
 
 _Which of the four scenarios (or your own, instructor-approved) did you build?_
+The marketplace trust problem.
 
 _____
 
 ## Launch path
 
 - [ ] Copy & Customize (start from a scenario starter prompt)
-- [ ] First Screen Method (build only the very first screen the user sees)
+- [X] First Screen Method (build only the very first screen the user sees)
 
 ## The build
 
 - **What I built:** _____
+- Initial Prototype profile landing page
 - **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
+- Loveable
 - **Shareable link:** _____
+- https://trust-vantage-point.lovable.app/
 
 ## Show & Swap read
 
 _What a partner understood from your build with no verbal setup. Their reaction is your first piece of product evidence._
 
 - **What they thought it did:** _____
+- They thought it was going to compare contractors to be able to compare and select a most-trusted partner.
 - **What surprised them:** _____
+- How developed the prototype was with one prompt.
 - **The gap between what I intended and what they read:** _____
+- N/A
