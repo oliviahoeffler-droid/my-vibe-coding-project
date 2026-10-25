@@ -4,32 +4,30 @@
 
 ## Scenario
 
-_Which of the four scenarios (or your own, instructor-approved) did you build?_
-The marketplace trust problem.
+_Tick the scenario you built in Lab 1 (the same one you selected in the lab guide), or name your own._
 
-_____
+- [ ] Scenario 01 · The Retention Engine
+- [ ] Scenario 02 · The Internal Tool Nobody Uses
+- [ ] Scenario 03 · The Marketplace Trust Problem
+- [ ] Scenario 04 · The Dashboard Nobody Reads
+- [x] My own (instructor-approved): Rapid Response Scheduler - The Home Services AI Lead Conversion Assistant
 
 ## Launch path
 
-- [ ] Copy & Customize (start from a scenario starter prompt)
-- [X] First Screen Method (build only the very first screen the user sees)
+- [x] Copy & Customize (started from a scenario starter prompt)
+- [ ] First Screen Method (built only the very first screen the user sees)
 
 ## The build
 
-- **What I built:** _____
-- Initial Prototype profile landing page
-- **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
-- Loveable
-- **Shareable link:** _____
-- https://trust-vantage-point.lovable.app/
+- **What I built:** Speed-to-Lead for Home Services Contractors A multi-company product. Each contractor business signs up and connects its website form. When a lead comes in, the app texts them within 10 seconds, then an AI voice agent calls them. Both try to book an appointment. Once a time is booked, it goes on a sales rep's Google Calendar, and the lead and the rep each get a text and an email.
+- **Tool used:** Lovable
+- **Shareable link:** https://instant-lead-booking-buddy.lovable.app
 
 ## Show & Swap read
 
-_What a partner understood from your build with no verbal setup. Their reaction is your first piece of product evidence._
+_What a partner understood from your build with no verbal setup, their reaction is your first piece of product evidence._
 
-- **What they thought it did:** _____
-- They thought it was going to compare contractors to be able to compare and select a most-trusted partner.
-- **What surprised them:** _____
-- How developed the prototype was with one prompt.
-- **The gap between what I intended and what they read:** _____
-- N/A
+- **What they understood immediately:** That it was an app to help call generated leads as quickly as possible
+- **What confused them:** How do leads come into the system>
+- **The assumption they thought you were testing:** If this app can call leads and book jobs the fastest
+- **The gap between what you intended and what they read:** Little gap between understanding and intent
