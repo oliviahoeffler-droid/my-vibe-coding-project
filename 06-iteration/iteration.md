@@ -2,13 +2,15 @@
 
 > Module 6 · Evals & Iteration. Read the analytics, run an iteration sprint, present with evidence.
 
-## What the analytics say
+## What the evidence says
 
-_The numbers from real usage. Put the metric that matters on screen._
+_What real usage showed: numbers if your tool has analytics, counted behaviour if it does not. Put the signal that matters on screen._
 
-- **Primary metric:** _____
-- **What moved:** _____
-- **What didn't:** _____
+- **Primary signal:** DIdn't get any feedback
+- **What moved:** N/A
+- **What didn't:** N/A
+
+_Analytics snapshot: visitors 0; page views 0; views per visit 0; duration 0; bounce 0._
 
 ## Iteration sprint
 
@@ -18,7 +20,7 @@ _The numbers from real usage. Put the metric that matters on screen._
 
 ## Peer feedback
 
-_____
+Unfortunately, I could not connect to Slack. I was not able to post my product to get valuable feedback.
 
 ## The recommendation
 
